@@ -13,6 +13,6 @@ int main()
     cin >> a >> b;
 
     // Function call
-    cout << addTwoNumber(a, b);
+    cout << "sum = " << addTwoNumber(a, b);
     return 0;
 }
